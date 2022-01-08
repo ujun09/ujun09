@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ujun09
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python
+- 🎆 Nice to meet you 🎆
+-  I'm living in south korea
